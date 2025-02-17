@@ -5,7 +5,7 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-public class dh {
+public class Main {
     public static void main(String[] args)  throws IOException {
        URL url = null;
         HttpURLConnection httpURLConnection = null;
